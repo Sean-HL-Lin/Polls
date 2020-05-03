@@ -1,0 +1,14 @@
+.list {
+  width: 50%;
+}
+
+ul {
+  width: 30%;
+}
+
+body {
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
