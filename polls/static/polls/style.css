@@ -1,7 +1,14 @@
-li a {
-  color: green;
+.list {
+  width: 50%;
+}
+
+ul {
+  width: 30%;
 }
 
 body {
-  background: white url("images/background.jpg") no-repeat;
+  background-image: url("images/background3.jpg");
+  background-size: cover;
+  background-position: 50%;
+  background-repeat: no-repeat;
 }
